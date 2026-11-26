@@ -1,2 +1,0 @@
-C:\Users\dns\source\repos\Lab3Chat\Lab3Chat\obj\Debug\Lab3Chat.csproj.AssemblyReference.cache
-C:\Users\dns\source\repos\Lab3Chat\Lab3Chat\obj\Debug\Lab3Chat.csproj.CoreCompileInputs.cache
